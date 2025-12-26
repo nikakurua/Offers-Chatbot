@@ -4,7 +4,7 @@ from retriever import OfferRetriever
 from prompts import SYSTEM_PROMPT
 
 
-GOOGLE_API_KEY = "AIzaSyDNLIuHfKwdmtrSaXHIcUZMjai47j9SDpY"
+GOOGLE_API_KEY = ""
 
 
 retriever = OfferRetriever()
